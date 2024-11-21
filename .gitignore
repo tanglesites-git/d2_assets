@@ -2,3 +2,12 @@
 .vscode/
 .venv/
 data/
+__pycache__/
+
+
+*.ini
+
+logs/
+test.json
+image_paths.json
+adjency_list.json
